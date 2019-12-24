@@ -2,7 +2,7 @@
 template: page
 title: About me
 slug: Designer / Developer
-draft: true
+draft: false
 ---
 I'm an experienced Front End Engineer ...
 
